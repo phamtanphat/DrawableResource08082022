@@ -25,11 +25,15 @@
             android:layout_height="wrap_content"/>
 
         <EditText
+            android:paddingLeft="10dp"
+            android:background="@drawable/background_corner_edittext"
             android:layout_marginTop="10dp"
             android:layout_width="250dp"
             android:layout_height="wrap_content"/>
 
         <EditText
+            android:paddingLeft="10dp"
+            android:background="@drawable/background_corner_edittext"
             android:layout_marginTop="10dp"
             android:layout_width="250dp"
             android:layout_height="wrap_content"/>

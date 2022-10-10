@@ -8,9 +8,10 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
 
-    <View
-        android:background="@drawable/background_shape"
-        android:layout_width="150dp"
-        android:layout_height="150dp"/>
+<!--    <View-->
+<!--        android:background="@drawable/background_shape"-->
+<!--        android:layout_width="150dp"-->
+<!--        android:layout_height="150dp"/>-->
 
+    <include layout="@layout/layout_shape"/>
 </LinearLayout>
